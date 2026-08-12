@@ -1,6 +1,6 @@
 # Hi, I'm Ziang Wang 👋
 
-<!-- GitHub Profile README: detailed information is maintained on the personal website linked below. -->
+<!-- GitHub Profile README: detailed information is maintained on the personal website linked below. Refreshed 2026-08-12. -->
 
 ![GitHub profile views](https://visitor-badge.laobi.icu/badge?page_id=oscarwilde666.profile&left_text=Profile%20views&left_color=595959&right_color=1283c3&logo=github)
 
