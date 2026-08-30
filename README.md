@@ -4,7 +4,7 @@
 
 ![GitHub profile views](https://visitor-badge.laobi.icu/badge?page_id=oscarwilde666.profile&left_text=Profile%20views&left_color=595959&right_color=8c2732&logo=github)
 
-I am a Ph.D. student in Computer Science at **Fudan University**, jointly trained by the National AI School and Beijing Zhongguancun Academy. I am advised by [Prof. Xin Wang](https://faculty.fudan.edu.cn/wangxin/zh_CN/), Party Secretary of the College of Computing and Intelligence Innovation, and I am also a Research Intern at **壹索智能**.
+I am a Ph.D. student in Computer Science at **Fudan University**, jointly trained by the National AI School and Beijing Zhongguancun Academy. I am advised by [Prof. Xin Wang](https://faculty.fudan.edu.cn/wangxin/zh_CN/), and I am also a Research Intern at **壹索智能**.
 
 My research focuses on **Data-Centric AI**, **data synthesis**, **agentic data and harness systems**, **post-training**, and **AI4Science**. I am interested in turning development-time feedback and measurable improvement trajectories into reliable training signals, and in building scientific agents that accumulate reusable capabilities across long-running R&D workflows.
 
