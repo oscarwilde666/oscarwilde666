@@ -11,7 +11,7 @@ I study how execution feedback and improvement trajectories can be turned into r
 ## Selected Systems
 
 - **Curve-SWE / DistillWheel** — failure-grounded data production for coding agents.
-- **SciLand** — a self-evolving AI-native workspace for biomedical R&D.
+- **SciLand** — a persistent, evidence-grounded biomedical R&D workspace designed to turn research episodes into candidate capabilities for qualification, validation, reuse, and revision. It connects research planning with laboratory-facing interaction and supports cross-episode capability evolution.
 - **Agentic Data** — natural-language-driven data preparation for LLMs with the [DCAI Lab](https://github.com/OpenDCAI).
 
 ## Education
